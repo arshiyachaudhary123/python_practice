@@ -5,4 +5,5 @@ Topics:
 -Data preprocessing
 -Basic machine learning using scikit learn.
 -Python & Numpy practice
+This repository will be updated regularly as I learn more.
 
